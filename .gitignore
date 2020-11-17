@@ -1,1 +1,4 @@
-.env
+.envQUANDL_API_KEY=zQxFus-fh6Y3yCxyKf9
+ALPACA_API_KEY = PK2CWZ5AFZEMWADKBIH3
+ALPACA_SECRET_KEY = tOHeYDHFlNL97t3h5czZ2vcsCR889X2dw2lrqIbP
+map_box_api = pk.eyJ1IjoianVzdGluam9objgiLCJhIjoiY2tnaGEyNDNwMDFvcDJxcG02emkwdTZqZyJ9.ODmC0IshVgroPgnHYnjgmQ
