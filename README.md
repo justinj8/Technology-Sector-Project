@@ -7,7 +7,7 @@ By: Justin John
 
 
 ## Performance
---------------------
+
 
 #### Stock Price 5-year Performance
 ![stock price line chart](stock_price_line_chart.png)<sup><sup>
@@ -28,9 +28,10 @@ By: Justin John
 ![heatmap of pct change correlation](heatmap_pct_change.png)<sup><sup>
   
   
-  
+--------------------  
 ## Risk
---------------------
+
+
 #### Box Plot Tech Sector Risk
 ![Risk Box Plot](risk.png)<sup><sup>
   
