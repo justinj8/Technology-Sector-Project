@@ -1,4 +1,4 @@
-# Technology Investment Analysis Project
+# Technology Investment Analysis 
 
 By: Justin John
 
