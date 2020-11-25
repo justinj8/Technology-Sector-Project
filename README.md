@@ -4,7 +4,7 @@ By: Justin John
 
 <img src='https://cdn1.expresscomputer.in/wp-content/uploads/2018/12/06112143/Digitisation.jpg' width='600'><sup><sup>
 
-An investment analysis on the top ten technology company by market cap.
+An investment analysis on the top ten technology companies by market cap.
 
 ## Performance
 
