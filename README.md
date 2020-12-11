@@ -35,6 +35,7 @@ This chart shows the daily returns of the tech companies over the last five year
 ## Risk
 
 
+
 #### Box Plot Tech Sector Risk
 ![Risk Box Plot](Resources/risk.png)<sup><sup>
   
