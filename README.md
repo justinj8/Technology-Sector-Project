@@ -45,6 +45,7 @@ This chart shows the daily returns of the tech companies over the last five year
 ![Rolling Std Dev](Resources/rolling_std_dev.png)<sup><sup>
   
 
+## Prediction Results
   
 #### Monte Carlo Simulation Forecasting Cumulative Returns for 30 Years
 ![Monte Carlo Simulation](Resources/monte_carlo_simulation.png)<sup><sup>
