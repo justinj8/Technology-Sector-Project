@@ -1,4 +1,4 @@
-# Technology Investment Analysis 
+# Technology Sector Investment Analysis 
 
 By: Justin John
 
